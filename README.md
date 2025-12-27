@@ -4,6 +4,17 @@
 
 ---
 
+## 🛡️ Day 7: Web Sentinel
+**Status:** ✅ Deployed | **Tech:** Python, Sys, Requests
+
+A CLI tool that monitors the health of websites. It takes multiple URLs as arguments and reports if they are Online (200 OK) or Down.
+
+* **Usage:** `python day07_sentinel.py google.com my-broken-site.com`
+* **Features:** Auto-adds `https://`, handles timeouts, and reports status codes.
+
+
+----
+
 ## 💱 Day 6: Global Currency Converter
 **Status:** ✅ Deployed | **Tech:** Python, API, Math
 
